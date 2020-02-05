@@ -1,5 +1,6 @@
 # Tableau-README
 
+ https://public.tableau.com/profile/matt.friske#!/
 
 Trip Data by Count:
 The top bike usage occurs on Wednesday, Thursday and Friday, within the times of 6AM-9AM and 5PM-7PM. Taking the reverse of this, the lowest usage occurs Saturday, between the time of 1AM to 4AM. This lowest usage time would be the most ideal period to service and maintain bicycles, as it would be the least time to interfere with users and the time when the highest amount of bicycles will not in use.
