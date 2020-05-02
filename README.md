@@ -8,8 +8,8 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-![Gender Story](images/Gender_Story.pdf)
+![Gender Story](/images/Gender_Story.pdf)
 
-![Trip by Count](images/Trip_Data_by_Count.pdf)
+![Trip by Count](/images/Trip_Data_by_Count.pdf)
 
-![Trip by Gender](images/Trip_Data_by_Gender.pdf)
+![Trip by Gender](/images/Trip_Data_by_Gender.pdf)
